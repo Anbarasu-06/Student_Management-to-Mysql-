@@ -1,11 +1,11 @@
-package com.jav.Main;
+package com.java.Main;
 
 
 import java.sql.Connection;
 import java.util.Scanner;
 
-import com.jav.Connecting.Connecting;
-import com.jav.Controller.Controller;
+import com.java.Connecting.Connecting;
+import com.java.Controller.Controller;
 
 public class MainClass {
 

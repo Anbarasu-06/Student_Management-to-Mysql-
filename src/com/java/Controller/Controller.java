@@ -1,11 +1,12 @@
-package com.jav.Controller;
+package com.java.Controller;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Scanner;
-import com.jav.Connecting.Connecting;
+
+import com.java.Connecting.Connecting;
 import com.java.Queries.Query;
 import com.java.entities.Entity;
 
